@@ -1,12 +1,12 @@
 .what-we-do {
     padding: 50px 20px;
     text-align: center;
-    background-color: #f8f8f8;
+    background-color: gray;
 }
 .what-we-do h2 {
     font-size: 2.5rem;
     margin-bottom: 30px;
-    color: #333;
+    color: white;
 }
 .services {
     display: flex;
@@ -15,7 +15,7 @@
 }
 
 .service {
-    background: #fff;
+    background: gray;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -29,13 +29,13 @@
 }
 .service h3 {
     font-size: 1.5rem;
-    color: #333;
+    color:white;
     margin-bottom: 10px;
 }
 
 .service p {
     font-size: 1rem;
-    color: #666;
+    color: white;
 }
 @media (max-width: 480px) {
     .services {
